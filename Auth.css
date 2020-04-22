@@ -1,0 +1,32 @@
+button{
+    background-color: transparent;
+  border: none;
+  color:green;
+  outline: none;
+  cursor: pointer;
+  font: inherit;
+  padding: 10px;
+  margin: 10px;
+  font-weight: bold;
+}
+.form{
+    text-align: center;
+    border: 1px solid #eee;
+    padding: 10px;;
+    box-shadow: 0 2px 3px #ccc;
+    margin: 20px auto;
+    width: 35%;
+    margin-top: 200px;
+    padding-top: 40px;
+}
+
+input{
+    outline: none;
+    border: 1px solid #ccc;
+    background-color: white;
+    font: inherit;
+    padding: 6px 10px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+}
